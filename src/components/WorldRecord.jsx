@@ -4,7 +4,7 @@ import { ConvertHR } from '../functions/timeParser';
 export default function WorldRecord({ worldRecord }) {
   return (
     <div className="mb-5 text-center md:mb-6">
-      <div className="text-karla text-xl font-semibold text-dmorange">World Record</div>
+      <div className="text-karla text-xl font-semibold text-white">World Record</div>
 
       {worldRecord.username && (
         <div className="text-white">
