@@ -1,6 +1,6 @@
-const base = 'https://api.jsonbin.io/v3/b/63f44d80ebd26539d082459b';
+const base = 'https://api.jsonbin.io/v3/b/65850f13dc74654018872304';
 const url = `${base}?meta=false`;
-const key = '$2b$10$qHQvJp.BPJYziAYOOYcPsO.aWAyN0Hw7dtbS6xMj.cOr5izNVS2iC';
+const key = '$2b$10$MMadaqGDM0eZpKN6.h85Le5FfxDqfR/68F5UOq1IT.TLxyrWWsyTS';
 
 // eslint-disable-next-line consistent-return
 async function read() {
